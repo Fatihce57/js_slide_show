@@ -11,9 +11,8 @@ function slideImg() {
         i++;
     } else {
         i = 0;
-    }
+    };
     setTimeout("slideImg()", duration);
-
-}
+};
 
 window.onload = slideImg;
