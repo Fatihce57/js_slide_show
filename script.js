@@ -1,5 +1,10 @@
 var i = 0
-var images = ["http://lorempixel.com/400/200/", "http://lorempixel.com/g/400/200", "http://lorempixel.com/400/200/sports", "http://lorempixel.com/400/200/sports/Dummy-Text", "http://lorempixel.com/400/200/sports/1/Dummy-Text"
+var images = [
+    "http://lorempixel.com/400/200/",
+    "http://lorempixel.com/g/400/200",
+    "http://lorempixel.com/400/200/sports",
+    "http://lorempixel.com/400/200/sports/Dummy-Text",
+    "http://lorempixel.com/400/200/sports/1/Dummy-Text"
 ];
 
 var duration = 1500;
